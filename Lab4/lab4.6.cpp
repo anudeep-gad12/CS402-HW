@@ -1,4 +1,4 @@
-// Ackermann’s function A(x, y):
+// Ackermann’s function ackermann(x, y):
 
 
 #include <iostream>

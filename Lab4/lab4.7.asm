@@ -2,7 +2,7 @@
 prompt1: .asciiz "Enter value of x: \n"
 prompt2: .asciiz "Enter value of y: \n"                
 messageNegative: .asciiz "Enter an integer greater than 0 \n"
-answer: .asciiz "Answer: "
+answer: .asciiz "Ackermann: "
 
 .text               
 .globl main         
