@@ -12,5 +12,3 @@
 485913 Dylan Steinberg 84000
 935460 Heather James 98000
 970016 Russ Vorobiev 109000
-
-970018	abc	abc	30000
