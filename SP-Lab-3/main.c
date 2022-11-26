@@ -11,7 +11,7 @@ double mean(float array[], int size);
 float median(float array[], int size);
 double stddev(float array[], int size);
 
-// The below function loads in the data from the data file and creates the DB
+//  Function that reads from file and allocates memory 
 float * createArray(char* inputFile, int* dataCount, int* arraySize)
 {
     int allocatedSize = 20;
@@ -66,7 +66,7 @@ float * createArray(char* inputFile, int* dataCount, int* arraySize)
     return dataset;
 }
 
-// The below function is used to print out the DB        
+//  Function to print the results 
 void display (float array[], int usedCapacity, int totalSize)
 {
     printf("\nResults:\n");
